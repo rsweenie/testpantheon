@@ -1,0 +1,5 @@
+name: 'Test Pantheon'
+type: module
+description: 'Testing an empty module just to see if I can do multidev in pantheon.'
+core: 8.x
+package: 'Rick Sweenie'
