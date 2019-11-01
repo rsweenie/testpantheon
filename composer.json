@@ -1,5 +1,5 @@
 {
   "name": "rsweenie/testpantheon",
   "description": "Install drops-8 with Composer on Pantheon.",
-  "type": "project"
+  "type": "drupal-module"
 }
