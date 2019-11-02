@@ -1,5 +1,9 @@
-/**
-    @file
+<?php
 
-    This is an empty module on purpose!
-*/
+/**
+ * @file
+ * Just a basic generic content type.
+ */
+
+var_dump(json_encode(['object'=>['rick','charlie','murphy'], 'anther-thing'=>'bing bong']));
+var_dump(json_decode(json_encode(['object'=>['rick','charlie','murphy'], 'anther-thing'=>'bing bong'])));
