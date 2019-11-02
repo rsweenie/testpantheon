@@ -1,8 +1,5 @@
 {
   "name": "rsweenie/testpantheon",
   "description": "Install drops-8 with Composer on Pantheon.",
-  "type": "drupal-module",
-  "require": {
-    "composer/installers": "~1.0"
-  }
+  "type": "drupal-module"
 }
